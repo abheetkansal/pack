@@ -4,6 +4,8 @@
 # pack
 
 <!-- badges: start -->
+
+![](https://github.com/abheetkansal/pack/actions/workflows/test-coverage.yml/badge.svg)
 <!-- badges: end -->
 
 The goal of pack is to …
